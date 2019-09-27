@@ -101,7 +101,7 @@
 - reverse alternate vectors while appending to result vector
 - use result vector size for alternating reverse odd/even
 
-####Tips
+#### Tips
 - check limits, use long long
 - iteration > recursion (use stack)
 - Convert recursion to DP wherever possible
